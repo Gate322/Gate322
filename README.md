@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm new 👋
 
 <!--
 **Gate322/Gate322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
